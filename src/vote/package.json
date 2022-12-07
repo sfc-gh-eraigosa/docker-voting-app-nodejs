@@ -20,7 +20,7 @@
     "@subfuzion/queue": "1.4.4",
     "body-parser": "~1.18.2",
     "debug": "~3.1.0",
-    "express": "~4.16.0",
+    "express": "~4.17.3",
     "mocha": "^5.0.0",
     "morgan": "~1.9.0"
   }
